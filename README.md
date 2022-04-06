@@ -1,4 +1,4 @@
-# bupt-clockIn
+# bupt-clockIn #text
 北邮疫情自动打卡，支持每日定时打卡，多人打卡，微信推送打卡状态，白嫖github action支持
 
 
